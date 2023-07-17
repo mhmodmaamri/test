@@ -1,0 +1,45 @@
+
+#c_p11,
+#c_p22,
+#c_p33,
+#c_p44,
+#c_p55,
+#c_p66,
+#c_p77,
+#c_p88 {
+    display: none;
+}
+#c_p4,
+#c_p5,
+#c_p6,
+#c_p7,
+#c_p8 {
+    display: none;
+}
+#Ph {
+    display: none;
+}
+#cart_hide1 {
+        display: none;
+    }
+
+
+    #basicDropdownHover1 {
+        display: none;
+    }
+
+@media screen and (max-width:700px) {
+    #Pc {
+    display: none;
+    }
+    #Ph {
+    display: block;
+}
+
+    /* #cart_hide1 {
+        display: block;
+    }
+    #cart_hide2 {
+        display: none;
+    } */
+}
